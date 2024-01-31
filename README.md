@@ -3,7 +3,7 @@
 1) Clone the repository:
 
 ```sh
-git clone 
+git clone https://github.com/krithikaa04/Wild-blueberry-yield-prediction-app.git
 ```
 
 2) Create a virtual environment:
